@@ -1,0 +1,68 @@
+{
+  "tasks": [
+    {
+      "id": "318b27f6-2f52-4622-8804-61166bbb1fb4",
+      "title": "Desafio 01 - NodeJS",
+      "description": "Primeiro desafio do curso de NodeJS",
+      "completed_at": "2023-11-26T13:16:38.182Z",
+      "created_at": "2023-11-26T13:02:22.873Z",
+      "updated_at": "2023-11-26T13:03:01.966Z"
+    },
+    {
+      "id": "0b2f067b-fcdc-417f-8609-378eede3f825",
+      "title": "Desafio 01 - React",
+      "description": "Primeiro desafio do curso de NodeJS",
+      "completed_at": null,
+      "created_at": "2023-11-26T13:17:24.010Z",
+      "updated_at": "2023-11-26T13:17:24.010Z"
+    },
+    {
+      "id": "2d7760f4-18ab-4ac4-b3b3-b611274bdd6b",
+      "title": "Desafio 01 - React",
+      "description": "Primeiro desafio do curso de NodeJS",
+      "completed_at": null,
+      "created_at": "2023-11-26T13:30:47.216Z",
+      "updated_at": "2023-11-26T13:30:47.216Z"
+    },
+    {
+      "id": "99785fdb-cf62-4278-b530-970f991fac34",
+      "title": "Task 01",
+      "description": "Descrição da Task 01",
+      "completed_at": null,
+      "created_at": "2024-01-22T23:29:43.498Z",
+      "updated_at": "2024-01-22T23:29:43.498Z"
+    },
+    {
+      "id": "70ee0c5a-85cc-49af-8a95-faf914cc533a",
+      "title": "Task 02",
+      "description": "Descrição da Task 02",
+      "completed_at": null,
+      "created_at": "2024-01-22T23:29:44.512Z",
+      "updated_at": "2024-01-22T23:29:44.512Z"
+    },
+    {
+      "id": "77aeda29-917b-429c-87a0-8ac2dd7a72ab",
+      "title": "Task 03",
+      "description": "Descrição da Task 03",
+      "completed_at": null,
+      "created_at": "2024-01-22T23:29:45.520Z",
+      "updated_at": "2024-01-22T23:29:45.520Z"
+    },
+    {
+      "id": "993bd8b9-d5a1-4b7a-8d66-d32590a4546d",
+      "title": "Task 04",
+      "description": "Descrição da Task 04",
+      "completed_at": null,
+      "created_at": "2024-01-22T23:29:46.529Z",
+      "updated_at": "2024-01-22T23:29:46.529Z"
+    },
+    {
+      "id": "1952eaff-e4bd-4231-942a-8f48d073d75b",
+      "title": "Task 05",
+      "description": "Descrição da Task 05",
+      "completed_at": null,
+      "created_at": "2024-01-22T23:29:47.536Z",
+      "updated_at": "2024-01-22T23:29:47.536Z"
+    }
+  ]
+}
